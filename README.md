@@ -36,11 +36,19 @@ Apple公式の「App Dev Tutorials」を学習した際の記録をまとめた�
 
 | Topic | Status |
 |---------|---------|
-| Getting Started with Scrumdinger | ✅ Completed |
-| Using Stacks to Arrange Views | ⬜ Not Started |
-| Creating and Combining Views | ⬜ Not Started |
-| Managing Data Flow Between Views | ⬜ Not Started |
-| Using SwiftUI Views and Controls | ⬜ Not Started |
+| Getting started with Scrumdinger | ✅ Completed |
+| Using stacks to arrange views | ✅ Completed |
+| Creating a card view | ⬜ Not Started |
+| Displaying data in a list | ⬜ Not Started |
+| Creating a navigation hierarchy | ⬜ Not Started |
+| Managing data flow between views | ⬜ Not Started |
+| Creating the edit view | ⬜ Not Started |
+| Passing data with bindings | ⬜ Not Started |
+| Making classes observable | ⬜ Not Started |
+| Responding to evebts | ⬜ Not Started |
+| Managing state and life cycle | ⬜ Not Started |
+| Updating app data | ⬜ Not Started |
+...
 
 
 ## 学習期間
