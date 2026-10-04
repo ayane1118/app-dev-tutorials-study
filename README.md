@@ -39,7 +39,7 @@ Apple公式の「App Dev Tutorials」を学習した際の記録をまとめた�
 | Getting started with Scrumdinger | ✅ Completed |
 | Using stacks to arrange views | ✅ Completed |
 | Creating a card view | ✅ Completed |
-| Displaying data in a list | ⬜ Not Started |
+| Displaying data in a list | ✅ Completed |
 | Creating a navigation hierarchy | ⬜ Not Started |
 | Managing data flow between views | ⬜ Not Started |
 | Creating the edit view | ⬜ Not Started |
