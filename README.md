@@ -19,15 +19,29 @@ Apple公式の「App Dev Tutorials」を学習した際の記録をまとめた�
 
 ## 学習状況
 
-- [ ] 1. SwiftUI Essentials
-- [ ] 2. Views & Layout
-- [ ] 3. State & Data Flow
-- [ ] 4. Navigation
-- [ ] 5. User Input & Forms
-- [ ] 6. Drawing & Animation
-- [ ] 7. Data Persistence
-- [ ] 8. App Architecture & Lifecycle
-- [ ] 9. Scrumdinger Project
+- [x] 1. SwiftUI essentials
+- [x] 2. Views
+- [ ] 3. Navigation and modal presentation
+- [ ] 4. Passing data
+- [ ] 5. State management
+- [ ] 6. Persistence and error handling
+- [ ] 7. Drawing
+- [ ] 8. Recording
+- [ ] 9. Recording audio
+- [ ] 10. UIKit essentials
+- [ ] 11. Collection views and navigation
+- [ ] 12. Making editable views
+- [ ] 13. Adding, deleting, and filtering reminders
+- [ ] 14. Custom views and animation
+- [ ] 15. System frameworks
+- [ ] 16. Tests
+- [ ] 17. Network data
+- [ ] 18. macOS essentials
+- [ ] 19. Navigation
+- [ ] 20. SwiftData
+- [ ] 21. Core macOS features
+- [ ] 22. Other frameworks
+- [ ] 23. Design
 
 
 ## 学習進捗
@@ -40,7 +54,7 @@ Apple公式の「App Dev Tutorials」を学習した際の記録をまとめた�
 | Using stacks to arrange views | ✅ Completed |
 | Creating a card view | ✅ Completed |
 | Displaying data in a list | ✅ Completed |
-| Creating a navigation hierarchy | ⬜ Not Started |
+| Creating a navigation hierarchy | ✅ Completed |
 | Managing data flow between views | ⬜ Not Started |
 | Creating the edit view | ⬜ Not Started |
 | Passing data with bindings | ⬜ Not Started |
