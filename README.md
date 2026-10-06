@@ -21,8 +21,8 @@ Apple公式の「App Dev Tutorials」を学習した際の記録をまとめた�
 
 - [x] 1. SwiftUI essentials
 - [x] 2. Views
-- [ ] 3. Navigation and modal presentation
-- [ ] 4. Passing data
+- [x] 3. Navigation and modal presentation
+- [x] 4. Passing data
 - [ ] 5. State management
 - [ ] 6. Persistence and error handling
 - [ ] 7. Drawing
@@ -55,9 +55,9 @@ Apple公式の「App Dev Tutorials」を学習した際の記録をまとめた�
 | Creating a card view | ✅ Completed |
 | Displaying data in a list | ✅ Completed |
 | Creating a navigation hierarchy | ✅ Completed |
-| Managing data flow between views | ⬜ Not Started |
-| Creating the edit view | ⬜ Not Started |
-| Passing data with bindings | ⬜ Not Started |
+| Managing data flow between views | ✅ Completed |
+| Creating the edit view | ✅ Completed |
+| Passing data with bindings | ✅ Completeds |
 | Making classes observable | ⬜ Not Started |
 | Responding to evebts | ⬜ Not Started |
 | Managing state and life cycle | ⬜ Not Started |
